@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "%3Cmetaheather.github.io/project-4-assessment/static/css/main.2fc486e6.chunk.css",
-    "main.js": "%3Cmetaheather.github.io/project-4-assessment/static/js/main.ef48addc.chunk.js",
-    "main.js.map": "%3Cmetaheather.github.io/project-4-assessment/static/js/main.ef48addc.chunk.js.map",
-    "runtime-main.js": "%3Cmetaheather.github.io/project-4-assessment/static/js/runtime-main.241a26e6.js",
-    "runtime-main.js.map": "%3Cmetaheather.github.io/project-4-assessment/static/js/runtime-main.241a26e6.js.map",
-    "static/js/2.25804772.chunk.js": "%3Cmetaheather.github.io/project-4-assessment/static/js/2.25804772.chunk.js",
-    "static/js/2.25804772.chunk.js.map": "%3Cmetaheather.github.io/project-4-assessment/static/js/2.25804772.chunk.js.map",
-    "index.html": "%3Cmetaheather.github.io/project-4-assessment/index.html",
-    "precache-manifest.e2aad3eccf4c74ccb03af950e9ee5ec1.js": "%3Cmetaheather.github.io/project-4-assessment/precache-manifest.e2aad3eccf4c74ccb03af950e9ee5ec1.js",
-    "service-worker.js": "%3Cmetaheather.github.io/project-4-assessment/service-worker.js",
-    "static/css/main.2fc486e6.chunk.css.map": "%3Cmetaheather.github.io/project-4-assessment/static/css/main.2fc486e6.chunk.css.map"
+    "main.css": "/project-4-assessment/static/css/main.2fc486e6.chunk.css",
+    "main.js": "/project-4-assessment/static/js/main.572676dd.chunk.js",
+    "main.js.map": "/project-4-assessment/static/js/main.572676dd.chunk.js.map",
+    "runtime-main.js": "/project-4-assessment/static/js/runtime-main.71652b97.js",
+    "runtime-main.js.map": "/project-4-assessment/static/js/runtime-main.71652b97.js.map",
+    "static/js/2.25804772.chunk.js": "/project-4-assessment/static/js/2.25804772.chunk.js",
+    "static/js/2.25804772.chunk.js.map": "/project-4-assessment/static/js/2.25804772.chunk.js.map",
+    "index.html": "/project-4-assessment/index.html",
+    "precache-manifest.6011887a78d327a54f7dc373dd3ca582.js": "/project-4-assessment/precache-manifest.6011887a78d327a54f7dc373dd3ca582.js",
+    "service-worker.js": "/project-4-assessment/service-worker.js",
+    "static/css/main.2fc486e6.chunk.css.map": "/project-4-assessment/static/css/main.2fc486e6.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.241a26e6.js",
+    "static/js/runtime-main.71652b97.js",
     "static/js/2.25804772.chunk.js",
     "static/css/main.2fc486e6.chunk.css",
-    "static/js/main.ef48addc.chunk.js"
+    "static/js/main.572676dd.chunk.js"
   ]
 }
